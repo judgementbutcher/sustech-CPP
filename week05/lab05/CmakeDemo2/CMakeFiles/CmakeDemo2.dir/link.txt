@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CmakeDemo2.dir/main.cpp.o CMakeFiles/CmakeDemo2.dir/function.cpp.o -o CmakeDemo2 

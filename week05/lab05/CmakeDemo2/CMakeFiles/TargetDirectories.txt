@@ -1,0 +1,3 @@
+/home/gamerbutcher/ShiqiYuCpp/week05/lab05/CmakeDemo2/CMakeFiles/CmakeDemo2.dir
+/home/gamerbutcher/ShiqiYuCpp/week05/lab05/CmakeDemo2/CMakeFiles/edit_cache.dir
+/home/gamerbutcher/ShiqiYuCpp/week05/lab05/CmakeDemo2/CMakeFiles/rebuild_cache.dir

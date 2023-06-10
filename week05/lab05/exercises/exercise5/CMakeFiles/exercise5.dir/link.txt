@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exercise5.dir/src/main.cpp.o CMakeFiles/exercise5.dir/src/stufun.cpp.o -o exercise5 
